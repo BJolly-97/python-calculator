@@ -1,2 +1,2 @@
 def faa(x, y):
-    return print("Gawdaymn just do the maths yourself")
+    return print("Null result")
